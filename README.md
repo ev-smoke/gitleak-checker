@@ -32,7 +32,7 @@ If secrets are detected, the commit is **blocked** and a warning is displayed.
 You can install the pre-commit hook and `gitleaks` in one command using `curl`:
 
 ```bash
-curl -sSL https://github.com/ev-smoke/gitleak-checker/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/ev-smoke/gitleak-checker/main/install.sh | bash
 ```
 
 ---
